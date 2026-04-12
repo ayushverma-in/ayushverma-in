@@ -1,6 +1,6 @@
 # Hi, I'm Ayush Verma 👋
 
-**Developer · Data Analyst · Python Programmer · Aspiring Computer Scientist**
+**Python Developer · Aspiring Data Analyst**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-7c3aed?style=flat-square)](https://ayushverma-site.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ayushverma-web)
@@ -9,36 +9,56 @@
 ---
 
 **BCA student** at Veer Kunwar Singh University, Bihar.  
-Passionate about Python, data analytics, and building tools that solve real problems.  
+Interested in data analysis and building Python-based tools for real-world use.  
+
+---
+
+### 🎯 Focus
+Data Analysis using Python and SQL  
 
 ---
 
 ### 🔭 Currently working on
-Portfolio Website + Python automation projects
+- Python automation projects  
+- Improving data analysis skills  
+- THEORY AI Assistant 🤖  
+
+---
 
 ### 🌱 Currently learning
-SQL · Data Analytics · C Language
+SQL · Data Analytics · Excel (Advanced)
+
+---
 
 ### 💬 Ask me about
-Python · Excel · Prompt Engineering · Data Analysis
-
-### 📫 How to reach me
-ayushverma16161@gmail.com
+Python · Excel · Data Analysis · Prompt Engineering  
 
 ---
 
 ### 🛠️ Tech Stack
-`Python` `C Language` `HTML` `CSS` `JavaScript` `Prompt Engineering` `VS Code`
+`Python` `SQL (Learning)` `Excel` `Basic C`
+
+---
+
+### 🚀 Projects
+- 🔐 Password Generator  
+- 📝 To-Do List Manager (CLI)  
+- 🤖 THEORY AI Assistant *(in progress)*  
 
 ---
 
 ### 🏅 Certifications
-- Prompt Engineering for AI Systems — *Dubai Future Foumdation, Dubai*
-- Oracle Cloud Infrastructure 2025 AI Foundations — *Oracle*
-- Python Programming — *IncodeVision*
+- Prompt Engineering for AI Systems — *Dubai Future Foundation*  
+- Oracle Cloud Infrastructure 2025 AI Foundations — *Oracle*  
+- Python Programming — *IncodeVision*  
 - Data Analytics Job Simulation — *Deloitte x Forage*
 
 ---
 
+### 📫 Contact
+ayushverma16161@gmail.com  
+
+---
+
 ### 📌 Fun fact
-I went from zero to building real Python tools and earning international certifications — all in my first year of college.
+Started from zero and built real Python projects within my first year of college 🚀
