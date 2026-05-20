@@ -17,7 +17,7 @@
   <a href="https://ayushverma-site.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-7c3aed?style=for-the-badge" />
   </a>
-  
+
   <a href="https://linkedin.com/in/ayushverma-web">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -51,11 +51,19 @@
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,c,vscode,github,mysql&theme=dark" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" alt="Python" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" alt="GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,git,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Python+Developer;Aspiring+Data+Analyst;Building+Real+World+Projects"
+    alt="Typing Animation"
+  />
 </p>
 
 ---
@@ -79,16 +87,6 @@ AI-powered educational assistant for theory explanations.
 - Oracle Cloud Infrastructure 2025 AI Foundations — *Oracle*  
 - Python Programming — *IncodeVision*  
 - Data Analytics Job Simulation — *Deloitte x Forage*  
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushverma-in&show_icons=true&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushverma-in&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
