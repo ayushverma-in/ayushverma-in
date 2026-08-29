@@ -71,7 +71,7 @@ Voice-controlled desktop assistant with wake word activation, system automation,
 
 ### 💬 Internship Telegram Bot
 A Telegram bot built during my internship for automating tasks and interactions.  
-[View Repo →](https://github.com/ayushverma-in/internship-telegram-bot)
+[View Repo →](https://github.com/ayushverma-in/internship-bot)
 
 ### ⌨️ Nextype AI Typing Arena
 An AI-powered typing speed arena to practice and compete on typing skills.  
