@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Python+Developer;Aspiring+Data+Scientist;Building+Real+World+Projects;Always+Learning+New+Things"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Python+Developer;Aspiring+Data+Analyst;Building+Real+World+AI+Projects;Always+Learning+New+Things"
     alt="Typing SVG"
   />
 </p>
@@ -17,72 +17,70 @@
   <a href="https://ayushverma-site.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-7c3aed?style=for-the-badge" />
   </a>
-
   <a href="https://linkedin.com/in/ayushverma-web">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:ayushverma16161@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-ec4899?style=for-the-badge" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=ayushverma-in&style=for-the-badge&color=7c3aed" alt="profile views" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
-
 🎓 BCA student at Veer Kunwar Singh University, Bihar  
 🐍 Passionate about Python, Data Analytics, and AI  
 📊 Focused on building real-world projects using data  
 🚀 Currently improving Python, SQL, and analytical skills  
 
-> “Focused on continuous learning and building impactful solutions.”
+> "Focused on continuous learning and building impactful solutions."
 
 ---
 
 # 🚀 Current Focus
-
 - Python Automation Projects  
 - Data Analysis using Python & SQL  
-- THEORY AI Assistant 🤖  
+- THEORY AI Assistant — voice assistant with local LLM (Ollama + Llama 3.2) integration 🤖  
 
 ---
 
 # 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" alt="Python" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" alt="GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,css,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,git,vscode,mysql&theme=dark" />
 </p>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Python+Developer;Aspiring+Data+Analyst;Building+Real+World+Projects"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Python+Developer;Aspiring+Data+Analyst;Building+Real+World+AI+Projects"
     alt="Typing Animation"
   />
 </p>
-
 ---
 
 # 📂 Featured Projects
 
-### 🔐 Password Generator
-A secure Python-based password generator.
+### 🤖 THEORY AI Assistant
+Voice-controlled desktop assistant with wake word activation, system automation, memory, and offline AI fallback via Ollama (Llama 3.2).  
+[View Repo →](https://github.com/ayushverma-in/theory-ai-assistant)
 
-### 📝 To-Do List Manager
-CLI-based task manager built using Python.
+### 💬 Internship Telegram Bot
+A Telegram bot built during my internship for automating tasks and interactions.  
+[View Repo →](https://github.com/ayushverma-in/internship-telegram-bot)
 
-### 🤖 THEORY AI Assistant *(In Progress)*
-AI-powered educational assistant for theory explanations.
+### ⌨️ Nextype AI Typing Arena
+An AI-powered typing speed arena to practice and compete on typing skills.  
+[View Repo →](https://github.com/ayushverma-in/nextype-ai-typing-arena)
+
 
 ---
 
 # 🏅 Certifications
-
 - Prompt Engineering for AI Systems — *Dubai Future Foundation*  
 - Oracle Cloud Infrastructure 2025 AI Foundations — *Oracle*  
 - Python Programming — *IncodeVision*  
@@ -91,16 +89,13 @@ AI-powered educational assistant for theory explanations.
 ---
 
 # 📬 Connect With Me
-
 <p align="center">
   <a href="https://linkedin.com/in/ayushverma-web">
     <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Verma-blue?style=for-the-badge&logo=linkedin" />
   </a>
-
   <a href="mailto:ayushverma16161@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://github.com/ayushverma-in">
     <img src="https://img.shields.io/badge/GitHub-ayushverma--in-black?style=for-the-badge&logo=github" />
   </a>
